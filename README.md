@@ -6,7 +6,7 @@ I made a simple calculator in Rust to learn about all the language's quirks.
 
 It is similar to C++ and is supposed to help with object oriented methodologies, so I thought it would be a great language to add to my arsenal.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/FpxCtIfr7SY)
 
 # Development Environment
 
